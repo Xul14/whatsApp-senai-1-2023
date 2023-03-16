@@ -8,6 +8,10 @@ ul, ol, li {
     list-style: none;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body{
     display: flex;
     justify-content: center;
@@ -34,7 +38,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-image: url(../img/background.png);
+    background-image: url(./img/background.png);
 }
 .container-direito-none{
     display: flex;
@@ -114,6 +118,7 @@ body{
     margin-left: 16px;
     cursor: pointer;
 }
+
 .filtro i{
     font-size: 20px;
     color: #D1D7DB;
@@ -132,7 +137,7 @@ body{
     background-color: #202C33;
 }
 .img-chat{
-    width: 49px;
+    width: 45px;
     height: 45px;
     border-radius: 50%;
 }

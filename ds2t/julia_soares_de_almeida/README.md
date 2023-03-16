@@ -1,5 +1,6 @@
 # WhatsApp - Somativa
 ![](./img/screenshot-whatsapp.png)
+[Link do site.](https://xul14.github.io/whatsApp-senai-1-2023/ds2t/julia_soares_de_almeida/s)
 
 ------
 ## Sobre
@@ -16,25 +17,22 @@ O objetivo deste projeto de avaliação somativa é colocar em prática os conhe
 ------
 
 ## Critérios de Avaliação
-- [ ] `Codificou o app conforme o original?`
+- [X] `Codificou o app conforme o original?`
 - [ ] Nomeou as classes CSS utilizando o padrão BEM?
-- [ ] `O app está responsivo?`
+- [X] `O app está responsivo?`
 - [ ] Utilizou algum framework CSS?
-- [ ] `Consumiu o JSON para mostrar todos os contatos?`
-- [ ] Criou outros itens, na lista de contatos, como a quantidade de mensagens lidas?
-- [ ] `Consumiu o JSON para mostrar as mensagens de cada contato?`
-- [ ] Foi criado variáveis pensando nas boas praticas?
-- [ ] `Foi criado funções pensando em responsabilidade única?`
-- [ ] `Foi criado funções pensando no principio de funções puras?`
-- [ ] O texto do README é objetivo e sucinto?
-- [ ] O screenshot mostra um pouco do projeto?
-- [ ] Existe um link para o github page no README?
-- [ ] Existe um link do autor do projeto no README?
-- [ ] `Fez a autoavaliação?`
+- [X] `Consumiu o JSON para mostrar todos os contatos?`
+- [X] Criou outros itens, na lista de contatos, como a quantidade de mensagens lidas?
+- [X] `Consumiu o JSON para mostrar as mensagens de cada contato?`
+- [X] Foi criado variáveis pensando nas boas praticas?
+- [X] `Foi criado funções pensando em responsabilidade única?`
+- [X] `Foi criado funções pensando no principio de funções puras?`
+- [X] O texto do README é objetivo e sucinto?
+- [X] O screenshot mostra um pouco do projeto?
+- [X] Existe um link para o github page no README?
+- [X] Existe um link do autor do projeto no README?
+- [X] `Fez a autoavaliação?`
   
-> *Os textos em destaque são critérios críticos, ou seja, precisam ser atingidos.* <br>
-> *Os demais, são critérios desejáveis, não necessários para aprovação, mas importantes para se destacar entre os demais desenvolvedores.*
-
 -----
 ## Figma
 
