@@ -38,6 +38,10 @@ O objetivo deste projeto de avaliação somativa é colocar em prática os conhe
 
 Projeto inspirado no [Figma.](https://www.figma.com/file/x3IgYfV68XfqmIvByoZ43E/WhatsApp-somativa?node-id=0%3A1&t=pDvrDXsRZHpPceqy-0)
 
+-----
+## LightHouse
+![](./img/lighthouse.png)
+
 ----- 
 ## Autor
 

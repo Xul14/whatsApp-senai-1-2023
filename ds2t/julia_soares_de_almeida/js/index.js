@@ -16,6 +16,7 @@ const criarCard = (contato, indice) => {
     const foto = document.createElement('img')
     foto.classList.add('img-chat')
     foto.src = `./${contato.image}`
+    foto.alt = 'Foto de perfil'
 
     const informacao = document.createElement('div')
     informacao.classList.add('container-info')
